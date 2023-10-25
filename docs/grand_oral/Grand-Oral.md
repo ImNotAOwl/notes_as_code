@@ -13,3 +13,5 @@ Nous avons 6 itérations pour travailler sur les 5 thèmes par année.
  - Optimisation du SI
  - Big Data (I n°1)
  - Développement
+
+### Nouveau thème
