@@ -1,0 +1,8 @@
+{
+  "label": "Infos Générales CESI",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+		"description": "Infos globales et pratique pour le CESI"
+  }
+}
