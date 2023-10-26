@@ -17,7 +17,7 @@ DSL -> Domain Specific Language
 Langage spécifique a une application, ce n'est pas un langage générique.
 :::
 
-!(PDF de cours DevOps)[./assets/devops.pdf]
+![PDF de cours DevOps](./assets/devops.pdf)
 
 Mise en place d'un DevNoteBook pour diffuser les bonnes pratiques en tant que dev
 Les méthodologies de développement, les process utilisés, etc...
