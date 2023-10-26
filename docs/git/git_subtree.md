@@ -6,7 +6,7 @@ tags: [dev, git, repo]
 
 Permet de créer une nouvelle branche git pour un répertoire donné. Cela permet de découper le code et de gérer ce module indépendamment. 
 
-![[./assets.subtre_img.png]]
+!(Illustrastion du concept git subtree)[./assets/subtree_img.png]
 
 ### Ajout du repo distant du module
 
