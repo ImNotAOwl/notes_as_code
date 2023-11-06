@@ -14,10 +14,16 @@ tags: [cubes-1, management, projet]
     - Maxime
 
 ## Méthode de travail 
-
+ + Cycle en V 
 ## Communication 
-    Discord 
+ + Discord 
 
 ## Cours 
  + Essentiels de l'infrastructure du SI
  + Choix des technologies et infrastructure de développement 
+
+# Plan de réalisation 
++ Rapport sur l’existant, ses problématiques et les risques associés pour l’entreprise
++ Proposer une refonte de l’infrastructure, prenant en compte les points énoncés ci-dessus.
++ Concevoir un plan budgétaire de la refonte, ainsi qu’un calendrier de réalisation
++ Realisation du POC
