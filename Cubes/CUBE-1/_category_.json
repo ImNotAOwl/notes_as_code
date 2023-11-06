@@ -1,0 +1,8 @@
+{
+  "label": "Cube 1",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Refacto de l'existant"
+  }
+}
