@@ -15,6 +15,7 @@ La résolution de cette problématique peut être envisagée par un hébergement
 
 
 # Exigences
+La refonte d'architecture logicielle est un projet d'envergure qui vise à repenser et à reconstruire l'infrastructure logicielle d'une application ou d'un système existant. Cette initiative est généralement motivée par des exigences spécifiques. En voici la liste :
 - non-régression des fonctionnalités actuelles
 - disponibilité de l'infrastructure
 - Continuité des données entre les deux architectures
