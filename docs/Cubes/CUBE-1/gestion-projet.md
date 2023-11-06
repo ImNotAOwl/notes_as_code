@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Gestion du projet Cube 1 - QUILOU'RIEN
+# Gestion du projet Cube 1 - Quilou'Rien
 
 ## Composition de l'équipe
     - Nathan 
