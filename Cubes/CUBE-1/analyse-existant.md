@@ -20,13 +20,15 @@ sidebar_position: 2
 - Code Source incomplet,
 - Pas de versionning des données (gestion des versions individuelle pour chaque développeur),
 - Le rôle d'une VM est inconnu.
+### Architecture
+- Monolithique
 ### Tâche principale des développeurs actuels
 Maintenance corrective qui implique de nombreuses régressions.
 
 ## Les problématiques causées par le système actuel
 - Manque de cohérence de l'application,
 - Plus de nouveau développement *(ou peu)*,
-- Technologie vieillissante ?,
+- Technologie vieillissante ? *(dette technique)*,
 - Code avec des normes obsolètes ?,
 - Gestion des données compliquée,
 - Dépendance de l'architecture des données ?,
