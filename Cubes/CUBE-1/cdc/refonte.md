@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-tags: [cubes-1]
+tags: [cubes-1, cdc-1, refonte-1]
 ---
 
 # Refonte de l'existant

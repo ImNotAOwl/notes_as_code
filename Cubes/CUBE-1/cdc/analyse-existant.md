@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-tags: [cubes-1, consignes-1, analyse-1]
+tags: [cubes-1, cdc-1, analyse-1]
 ---
 
 # Analyse de l'existant
