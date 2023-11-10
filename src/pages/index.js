@@ -18,7 +18,7 @@ function Homepage() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/category/infos-générales-cesi"
+            to="docs/category/cesi---infos-générales"
           >
             Go to Notes ⏱️
           </Link>
