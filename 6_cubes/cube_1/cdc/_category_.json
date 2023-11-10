@@ -1,6 +1,6 @@
 {
-  "label": "Cachier des charges",
-  "position": 99,
+  "label": "Cahier des charges",
+  "position": 1,
   "link": {
     "type": "generated-index",
     "description": "Analyse du besoin, des contraintes et liste des livrables"
