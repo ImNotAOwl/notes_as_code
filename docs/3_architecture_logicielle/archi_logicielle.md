@@ -26,6 +26,11 @@ Une bonne architecture est simple et évolutive.
 **Monolithique** : une seule application autonome, scalabitlité réduite et simple. On doit scale toute l'application.
 
 **Micro-services** : découpage en services indépendants les uns des autres. Adaptée aux applications complexes, et aux besoins de scale les services indépendamment.
+L'orchestrateur de message est l'élément central de ce type d'application.
+De différent type :
+- Bus de message type Kafka, RabbitMQ
+- Service Mesh: c'est un message bus de bas niveau orientés système et réseau, pour découvrir automatiquement les services, et les organiser entre eux ([istio](https://istio.io), [consul](https://www.consul.io))
+- Task runner: avec les tâches asynchrones les messages se transforment en tâches ([celery](https://docs.celeryq.dev/en/stable/getting-started/introduction.html#installation), [prefect](https://www.prefect.io))
 
 ## Index inversé
 Utiliser pour les moteurs recherche full texte, mais pas comme source de données principale.
