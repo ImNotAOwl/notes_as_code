@@ -1,9 +1,7 @@
 ---
-tags:
-  - devops
-  - iaac
-sidebar_position: 1
 title: DevOps_17_18 octobre
+tags: [devops, iaac]
+sidebar_position: 1
 ---
 
 :::info

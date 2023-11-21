@@ -1,7 +1,7 @@
 ---
 title: IaaC_19_octobre
 sidebar_position: 2
-tags: [devops, iaac, ansible ]
+tags: [devops, iaac, ansible]
 ---
 
 ## Gestionnaire de config
