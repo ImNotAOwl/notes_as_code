@@ -1,7 +1,7 @@
 ---
 title: Brique - Reverse Proxy
-sidebar_position: 2
-tags: [iaac, infra]
+sidebar_position: 4
+tags: [infra, reverse-proxy, brique, cloud]
 ---
 
 - Routage des url
