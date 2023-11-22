@@ -4,8 +4,6 @@ sidebar_position: 1
 tags: [cubes-1, cdc-1]
 ---
 
-# Contexte de l'entreprise
-
 L'entreprise **Quilou'Rien** est une PME de location d'outils, qui met également à disposition son application en marque blanche au près des magasins partenaires, tel que des hypermarchés.
 
 Un logiciel en marque blanche signifie offrir un logiciel qui peut être personnalisé et revendu par d'autres entreprises sous leur propre nom ou leur propre marque. Dans le contexte de l'exemple donné, l'entreprise de location d'outils développe un logiciel qu'elle permet à d'autres partenaires de personnaliser et de commercialiser sous leur propre identité, en utilisant le logiciel comme base pour leurs besoins spécifiques. Ces partenaires peuvent être des chaînes d'hypermarchés, ou d'autres professionels.

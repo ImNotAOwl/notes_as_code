@@ -4,13 +4,17 @@ tags: [cubes-1, consignes-1]
 ---
 
 # Consigne
+
 Document de consigne
 
 ## Enoncé
+
 ### L'avenir de cette entreprise dépend de vous
+
 Vous dirigez le SI d’une PME française de location d’outils, proposant également son logiciel en marque blanche à plusieurs partenaires dont des chaînes d’hypermarchés. L’architecture actuelle date d’une quinzaine d’années et est basée sur Java, une DB Oracle, le tout hébergé en interne. La direction souhaite moderniser son système, incluant l'étude d'un hébergement de type "cloud", et le faire développer par les 5 développeurs présents en interne.
 
 ### Description technique de l'architecture
+
 Le serveur Oracle a été déployé en même temps que l’infrastructure, et sa documentation n’est pas forcément à jour. Une grande partie de la logique métier est en PL/SQL, auquel aucun collaborateur n’est formé. Pour pallier aux problèmes de performance, la DB a été déployée sur les plus gros serveurs disponibles, occasionnant de nombreux surcoûts en licences. De nombreuses tables ont plus de 150 colonnes, témoignage des 15 années de “maintenance” effectuée bien souvent en absence de cohérence. La partie front passe par un proxy applicatif, et est écrit en JS (front et proxy).
 
 L’application principale est un monolithe, écrit principalement en Java et maintenue par un des développeurs “historiques”. Plusieurs autres briques logicielles y sont rattachées, connectées directement à la DB en l’absence d’API. Le code source d’une des applications client a été perdu, et ne reste que le binaire compilé en VB6. La “documentation” est un ensemble de documents non exhaustifs, plus ou moins à jour.
@@ -24,6 +28,7 @@ Une partie des informations étant manquantes (cf schéma), vous devrez explicit
 ![Architecture actuelle](./assets/architecture.png)
 
 ## Travail demandé / Livrable final
+
 Vous devrez tout d’abord réaliser un rapport sur l’existant, ses problématiques et les risques associés pour l’entreprise. Vous devez ensuite proposer une refonte de l’infrastructure, prenant en compte les points énoncés ci-dessus. L’architecture proposée devra être détaillée, au niveau logiciel, matériel et humain. Enfin, vous devrez concevoir un plan budgétaire de la refonte, ainsi qu’un calendrier de réalisation.
 
 Vous présenterez votre solution d’architecture et les choix technologiques argumentés lors d’une soutenance de 20 min qui sera suivie d’un échange de 15 minutes avec le jury.
@@ -40,4 +45,5 @@ Vous présenterez votre solution d’architecture et les choix technologiques ar
 |  6   | Préparation du support et de la soutenance |
 
 ## Organisation
+
 Le jury est composé du pilote et/ou d'un intervenant expert

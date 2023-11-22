@@ -4,7 +4,6 @@ sidebar_position: 2
 tags: [iaac, infra]
 ---
 
-# Brique - Reverse Proxy
 - Routage des url
   - Router les urls vers les bonnes applications
   - Routage des noms domaines
