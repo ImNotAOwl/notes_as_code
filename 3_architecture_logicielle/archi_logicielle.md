@@ -4,7 +4,6 @@ sidebar_position: 1
 tags: [logiciel, architecture]
 ---
 
-# Architecture logicelle
 ## C'est quoi ?
 
 L'architecture conrrespond aux guidelines pour résoudre un problème fonctionnel.
@@ -13,6 +12,7 @@ DAT = Dossier d'Architecture Technique
 Une bonne architecture est simple et évolutive.
 
 ## Les principes pour une bonne archi
+
 - **Simplicité** : pas de sur-ingéniering, design-pattern
 - **Evolutivité** : continuité dans le temps
 - **Maintenabilité** : maintenance facile.
@@ -28,16 +28,19 @@ Une bonne architecture est simple et évolutive.
 **Micro-services** : découpage en services indépendants les uns des autres. Adaptée aux applications complexes, et aux besoins de scale les services indépendamment.
 L'orchestrateur de message est l'élément central de ce type d'application.
 De différent type :
+
 - Bus de message type Kafka, RabbitMQ
 - Service Mesh: c'est un message bus de bas niveau orientés système et réseau, pour découvrir automatiquement les services, et les organiser entre eux ([istio](https://istio.io), [consul](https://www.consul.io))
 - Task runner: avec les tâches asynchrones les messages se transforment en tâches ([celery](https://docs.celeryq.dev/en/stable/getting-started/introduction.html#installation), [prefect](https://www.prefect.io))
 
 ## Index inversé
+
 Utiliser pour les moteurs recherche full texte, mais pas comme source de données principale.
-C'est pas du SQL. On index que ce que l'on veut chercher. 
+C'est pas du SQL. On index que ce que l'on veut chercher.
 L'index doit pouvoir être reconstruit à partir d'une source de données fiable.
 
 ## Big Data
+
 Plusieurs teras de données = cout élevé
 En dessous c'est pas utile, peut être réglé par des moyens conventionnels.
 Utilisé pour sortir des tendances, il faut donc de la forte volumétrie.
