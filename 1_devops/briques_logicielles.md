@@ -26,7 +26,12 @@ Construire des VPS pour augmenter monter en compétences.
   - Tutoriel pour allouer des ressources AWS : [Ici](https://spacelift.io/blog/terraform-ec2-instance)
   - Tutoriel Stephan Robert : [Ici](https://blog.stephane-robert.info/post/terraform-gitlab-aws-ansible/#cr%C3%A9ation-de-notre-vm-ec2)
 - **Ansible**
-  - Gestionnaire de configuration : [Doc](https://docs.ansible.com/ansible/latest/index.html)
+  - Déploiement d'application, gestion de configuration, contrôleur de commande : [Doc](https://docs.ansible.com/ansible/latest/index.html)
+
+## Storage / bucket
+
+- Amazon S3
+- [Minio](https://min.io) (open-source, install on VPS)
 
 ## Reverse proxy
 
@@ -34,14 +39,18 @@ Construire des VPS pour augmenter monter en compétences.
 - [Traefic](https://traefik.io)
 - [Caddy](https://caddyserver.com)
 
+## Config manager
+
+Tutoriel Chef, Puppet, Ansible : [Ici](https://www.youtube.com/live/O1s16cYzC10?si=eA_9bLAyX9PmUtZ-)
+
+- [Chef](https://www.chef.io/solutions/configuration-management)
+  - Tuto Youtube : [Ici](https://www.youtube.com/watch?v=04oITjdLtho)
+- [Puppet](https://www.puppet.com)
+- [Cfengine](https://docs.cfengine.com/docs/3.22/getting-started.html)
+
 ## Gestion des identités
 
 - [Keycloak](https://www.keycloak.org)
-
-## Storage / bucket
-
-- Amazon S3
-- [Minio](https://min.io) (open-source, install on VPS)
 
 ## Bus de message
 
