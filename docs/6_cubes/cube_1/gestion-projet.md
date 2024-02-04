@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 3
 tags: [cubes-1, management, projet]
 
 ---
@@ -13,6 +13,8 @@ tags: [cubes-1, management, projet]
     - Jérémy
     - Matthieu
     - Maxime
+    - Aude
+    - Anton
 
 ## Méthode de travail
 
